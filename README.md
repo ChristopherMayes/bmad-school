@@ -1,4 +1,4 @@
 # bmad-school
 Introduction and tutorials for using the Bmad particle accelerator software suite. 
 
-[wiki](wiki)
+Please go to the [Wiki](https://github.com/ChristopherMayes/bmad-school/wiki). 
